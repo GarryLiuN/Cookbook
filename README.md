@@ -9,3 +9,4 @@ This repository is for my cooking recipes.
 - [白斩鸡](recipes/白斩鸡.md)
 - [红烧猪蹄](recipes/红烧猪蹄.md)
 - [羊肉汤](recipes/羊肉汤.md)
+- [大盘鸡](receipes/大盘鸡.md)
